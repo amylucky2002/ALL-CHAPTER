@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/amany/OneDrive/Desktop/B.TECH 2nd SEM/CODING/C LAN/ALL CHAPTER/C Progam",
+      "environment": [],
+      "program": "c:/Users/amany/OneDrive/Desktop/B.TECH 2nd SEM/CODING/C LAN/ALL CHAPTER/C Progam/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/Mingw/mingw32/bin/gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
